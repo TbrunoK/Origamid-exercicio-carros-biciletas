@@ -1,0 +1,32 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+div {
+  background-color: black;
+  border-radius: 4px;
+
+  width: 800px;
+}
+
+h1,
+h2 {
+  color: #fff;
+}
+
+div h1 strong.valor {
+  color: #febe01;
+}
+
+div h2 strong.ano {
+  color: #febe01;
+}
+
+div h2 strong.km {
+  color: #febe01;
+}
+
+button {
+  background-color: #febe01;
+  color: #332200;
+}
